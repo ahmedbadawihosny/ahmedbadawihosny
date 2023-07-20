@@ -150,11 +150,6 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p> -->
 
-## <img src="https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
-
-[![Mina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedbad010&&show_icons=true&theme=noctis_minimus&hide=contribs)](https://github.com/ahmedbad010?tab=repositories) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbad010&layout=compact&theme=noctis_minimus)](https://github.com/ahmedbad010?tab=repositories)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 	
