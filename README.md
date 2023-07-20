@@ -143,15 +143,69 @@
 </p>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  ## <img src="https://raw.githubusercontent.com/ahmedbad010/ahmedbad010/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
+  <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
-<!-- <p align = "center">
-	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
-</p> -->
+  ----
 
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbad010&theme=tokyonight_duo" alt="ahmedbad010" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </details>
+
+  <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
+
+  ----
+
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="ahmedbad010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbad010&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbad010&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedbad010" height="230px"/>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  </details>
+
+  <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
+
+  ----
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbad010&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+
+  </details>
+
+  <details><summary> <h3> Git profile Trophies </h3></summary>
+
+  ----
+
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbad010&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ahmedbad010" /></a> </p>
+
+  </details>
+
+  <details><summary><h3>😎 My Repositories </h3></summary>
+
+  ----
+
+  <div>
+  <p align="center">
+  <a href="https://github.com/ahmedbad010/Assiut-University-Training-Newcomers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Assiut-University-Training-Newcomers&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+  <a href="https://github.com/ahmedbad010/Tic-Tac-Toe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Tic-Tac-Toe&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/ahmedbad010/ahmedbad010">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=ahmedbad010&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/ahmedbad010/Scientific-Calculator-GUI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Scientific-Calculator-GUI&theme=tokyonight" alt="GitHub Stats" />
+      </a>
+  </p>
+  </div>
+  </details>
+
+  </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph 😂
 	
