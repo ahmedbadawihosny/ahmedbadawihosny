@@ -44,7 +44,8 @@
 </p>
 
 
-## 🛠️ My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
+
 
 ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
@@ -175,7 +176,7 @@
 
   </details>
 
-  <details><summary> <h3> Git profile Trophies </h3></summary>
+  <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
   ----
 
