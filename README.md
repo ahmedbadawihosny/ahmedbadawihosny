@@ -200,6 +200,9 @@
       <a href="https://github.com/ahmedbad010/Scientific-Calculator-GUI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Scientific-Calculator-GUI&theme=tokyonight" alt="GitHub Stats" />
       </a>
+ <a href="https://github.com/ahmedbad010/coding-interview-university">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=coding-interview-university&theme=tokyonight" alt="GitHub Stats" />
+      </a>
   </p>
   </div>
   </details>
