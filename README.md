@@ -8,13 +8,13 @@
 
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=ahmedbad010&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbad010" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=25px, width=160px/> 
 
 </p>
 	
-## <picture><img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
@@ -34,10 +34,10 @@
 	<a href="https://www.codechef.com/users/badawi010" target="_blank"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 </p>
      
-## <picture> <img src="https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="mailto:ahmedbad063@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/ahmedbad010" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/ahmedbadawihosny" target="_blank"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/0201018562905" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.linkedin.com/in/ahmed-badawi-hosny-98485024b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/ahmed.badawyhosny" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
@@ -47,7 +47,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
 
-### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -73,7 +73,7 @@
 </p>
 
 
-### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -89,7 +89,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -108,7 +108,7 @@
     <a href="#"><img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
  
 <p align="center">
   &emsp;
@@ -119,7 +119,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -132,7 +132,7 @@
     <a href="https://www.codechef.com/users/badawi010"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
 </p>
 
- ### <picture> <img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
+ ### <picture> <img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
@@ -142,13 +142,13 @@
 </p>
 
 
-  ## <img src="https://raw.githubusercontent.com/ahmedbad010/ahmedbad010/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
+  ## <img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
   <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
   ----
 
-  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbad010&theme=tokyonight_duo" alt="ahmedbad010" /></p>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=tokyonight_duo" alt="ahmedbadawihosny" /></p>
 
   </details>
 
@@ -158,8 +158,8 @@
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="ahmedbad010's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbad010&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbad010&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedbad010" height="230px"/>
+      <img alt="ahmedbadawihosny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbadawihosny&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ahmedbadawihosny" height="230px"/>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -170,7 +170,7 @@
 
   ----
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbad010&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadawihosny&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
 
   </details>
 
@@ -178,7 +178,7 @@
 
   ----
 
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbad010&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ahmedbad010" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a> </p>
 
   </details>
 
@@ -188,20 +188,20 @@
 
   <div>
   <p align="center">
-  <a href="https://github.com/ahmedbad010/Assiut-University-Training-Newcomers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Assiut-University-Training-Newcomers&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ahmedbadawihosny/Assiut-University-Training-Newcomers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawihosny&repo=Assiut-University-Training-Newcomers&theme=tokyonight" alt="GitHub Stats" />
       </a>
-  <a href="https://github.com/ahmedbad010/Tic-Tac-Toe">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Tic-Tac-Toe&theme=tokyonight" alt="GitHub Stats" />
+  <a href="https://github.com/ahmedbadawihosny/Tic-Tac-Toe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawihosny&repo=Tic-Tac-Toe&theme=tokyonight" alt="GitHub Stats" />
       </a>
-      <a href="https://github.com/ahmedbad010/ahmedbad010">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=ahmedbad010&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/ahmedbadawihosny/ahmedbadawihosny">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawihosny&repo=ahmedbadawihosny&theme=tokyonight" alt="GitHub Stats" />
       </a>
-      <a href="https://github.com/ahmedbad010/Scientific-Calculator-GUI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=Scientific-Calculator-GUI&theme=tokyonight" alt="GitHub Stats" />
+      <a href="https://github.com/ahmedbadawihosny/Scientific-Calculator-GUI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawihosny&repo=Scientific-Calculator-GUI&theme=tokyonight" alt="GitHub Stats" />
       </a>
- <a href="https://github.com/ahmedbad010/coding-interview-university">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbad010&repo=coding-interview-university&theme=tokyonight" alt="GitHub Stats" />
+ <a href="https://github.com/ahmedbadawihosny/coding-interview-university">
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawihosny&repo=coding-interview-university&theme=tokyonight" alt="GitHub Stats" />
       </a>
   </p>
   </div>
@@ -212,5 +212,5 @@
 ## 🐍 A Snake Eating my Contributions Graph 😂
 	
 <p align = "center">
-	<img src = "https://github.com/ahmedbad010/ahmedbad010/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
