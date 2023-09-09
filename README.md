@@ -49,11 +49,15 @@
   ## <img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawihosny&layout=compact&hide_border=true&theme=onedark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&hide_border=true&theme=onedark">
  <a href="https://github.com/ahmedbadawihosny">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&theme=onedark&line_height=27" alt="Ahmed Badawi github stats"/>
+
+----
+
 </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawihosny&layout=compact&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&hide_border=true&theme=onedark">
+
 
 -----
 
