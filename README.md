@@ -48,26 +48,19 @@
 
   ## <img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
-  <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=onedark" alt="ahmedbadawihosny"/>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="ahmedbadawihosny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" height="230px"/></a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbadawihosny&langs_count=10&show_icons=true&locale=en&theme=onedark" alt="ahmedbadawihosny" height="230px"/>
-    <br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a>
-
-<br>
-
-> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br>
+<div align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawihosny&layout=compact&hide_border=true&theme=onedark">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&hide_border=true&theme=onedark">
+ <a href="https://github.com/ahmedbadawihosny">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&theme=onedark&line_height=27" alt="Ahmed Badawi github stats"/>
+</a>
 
 -----
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedbadawihosny&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/ashutosh00710/github-readme-activity-graph)">
-
-<br>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a>
 </div>
+
+<br><br>
 
 ## <picture> <img src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
