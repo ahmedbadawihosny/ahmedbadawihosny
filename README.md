@@ -14,7 +14,7 @@
 	
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width ="400px" height="300"></picture>
 
 <br><br>
 
@@ -69,13 +69,30 @@
 <br><br>
 
 ## <picture> <img src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
-<p align="center">
-	<a href="https://www.linkedin.com/in/ahmed-badawi-hosny-98485024b/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="mailto:ahmedbad063@gmail.com" target="_blank"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://wa.me/0201018562905" target="_blank"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="https://www.facebook.com/ahmed.badawyhosny" target="_blank"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
 
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+    <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/ahmed-badawi-hosny-98485024b/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/ahmedbadawihosny">
+		  <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+    <a style="margin-left: 10px;"  target="_blank" href="mailto:ahmedbad063@gmail.com">
+      <img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/22173669/ahmed-badawi?tab=profile">
+				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/ahmedbadawi">
+					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
+      <a style="margin-left: 10px;"  target="_blank" href="https://www.facebook.com/ahmed.badawyhosny">
+    <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
+      <a style="margin-left: 10px;"  target="_blank" href="https://wa.me/0201018562905">
+    <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png"></a>
+        <!--
+  <a style="margin-left: 5px;" target="_blank" href="https://github.com/">
+        <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+        -->
+      </div>
+</p>
 
   </br></br>
 	
