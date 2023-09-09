@@ -14,7 +14,7 @@
 	
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width ="400px" height="300"></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width ="350px" height="250"></picture>
 
 <br><br>
 
