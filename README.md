@@ -48,26 +48,6 @@
 
   ## <img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
-<div align="center">
- <a href="https://github.com/ahmedbadawihosny">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&theme=onedark&line_height=27" alt="Ahmed Badawi github stats"/>
-
-----
-
-</a>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawihosny&layout=compact&hide_border=true&theme=onedark">
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&hide_border=true&theme=onedark">
-
-
------
-###  🏆 Git profile Trophies
-<br>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a>
-</div>
-
-<br><br>
-
 <p align="center">
 <table align="center">
 <tr border="none">
@@ -92,6 +72,8 @@
     </a>
 </div>
 </p>
+
+<br><br>
 
 ## <picture> <img src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
