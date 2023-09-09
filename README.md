@@ -49,14 +49,14 @@
   ## <img src="https://raw.githubusercontent.com/ahmedbadawihosny/ahmedbadawihosny/main/Images/Statistics.gif" width=5% valign="bottom"> Github Stats
 
   <p>
-    <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=onedark" alt="ahmedbadawihosny"/></p>
-    <p align="center">
+    <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=onedark" alt="ahmedbadawihosny"/></div>
+    <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img alt="ahmedbadawihosny's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&show_icons=true&count_private=true&locale=en&theme=onedark&layout=compact" height="230px"/></a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbadawihosny&langs_count=10&show_icons=true&locale=en&theme=onedark" alt="ahmedbadawihosny" height="230px"/>
-    </p>
+    </div>
     <br>
- <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a></p>
+ <div align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a> </div>
 
 <br>
 
