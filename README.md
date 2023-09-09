@@ -60,6 +60,8 @@
 
 
 -----
+###  🏆 Git profile Trophies
+<br>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedbadawihosny&layout=compact&theme=onedark&column=4&margin-w=15&margin-h=15" alt="ahmedbadawihosny" /></a>
 </div>
