@@ -1,16 +1,26 @@
-<h1 align="center">Hi , I'm Ahmed Badawi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=600&lines=Hello+there+!;+I'm+Ahmed Badawi+;Welcome+to+my+GitHub+profile;I'm+Computer+Science+Student;Competitive+Programmer;Software+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
+</h1>
 
+<!---
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
+ -->
  
 <br>
  
-<p align="center"> 
+<div align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=24px, width=150px/> 
 
-</p>
+<img src="https://img.shields.io/github/followers/ahmedbadawihosny.svg?style=social&label=Followers" alt="ahmedbadawifollowers"  height=24px, width=150px />
+
+<!--
+[![GitHub followers](https://img.shields.io/github/followers/ahmedbadawihosny.svg?style=social&label=Followers)](https://github.com/ahmedbadawihosny?tab=followers)
+-->
+
+</div>
 	
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
