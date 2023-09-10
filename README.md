@@ -10,6 +10,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=25px, width=160px/> 
 
+<img src="https://img.shields.io/github/followers/ahmedbadawihosny.svg?style=social&label=Followers" alt="ahmedbadawifollowers"  height=24px, width=150px />
+
 </p>
 	
 ## <picture><img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
