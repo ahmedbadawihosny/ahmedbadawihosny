@@ -8,7 +8,7 @@
  
 <p align="center"> 
 
-<img src="https://img.shields.io/github/watchers/ahmedbadawihosny/ahmedbadawihosny?label=Profile%20views&style=social" alt="ahmedbadawihosny" height=25px, width=160px/> 
+<img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=24px, width=150px/> 
 
 <img src="https://img.shields.io/github/followers/ahmedbadawihosny?label=Followers&style=social&color=0047AB" alt="ahmedbadawihosnyfollowers"  height=24px, width=150px />
 
