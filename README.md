@@ -75,7 +75,7 @@
 </div>
 </p>
 
-<br>
+<br><br>
 
 ## My Embeddable Charts in Programming Languages
 
