@@ -8,9 +8,9 @@
  
 <p align="center"> 
 
-<img src="https://komarev.com/ghpvc/?username=ahmedbadawihosny&label=Profile%20views&color=0047AB&style=plastic?" alt="ahmedbadawihosny" height=25px, width=160px/> 
+<img src="https://img.shields.io/github/watchers/ahmedbadawihosny/ahmedbadawihosny?label=Profile%20views&style=social" alt="ahmedbadawihosny" height=25px, width=160px/> 
 
-<img src="https://img.shields.io/github/followers/ahmedbadawihosny.svg?style=social&label=Followers" alt="ahmedbadawifollowers"  height=24px, width=150px />
+<img src="https://img.shields.io/github/followers/ahmedbadawihosny?label=Followers&style=social&color=0047AB" alt="ahmedbadawihosnyfollowers"  height=24px, width=150px />
 
 </p>
 	
@@ -81,9 +81,10 @@
 
 <p>
 
-<img src="https://wakatime.com/share/@ahmedbadawi/f0dcdb99-d657-425f-954d-db2e553bc402.svg" height=340px, width="50%"/>
+<img src="https://wakatime.com/share/@ahmedbadawi/f0dcdb99-d657-425f-954d-db2e553bc402.svg" height=350px, width=750/>
+<!---
 <img src="https://wakatime.com/share/@ahmedbadawi/63a73696-32bd-4067-a174-804683d66c25.svg" height=340px, width="50%"/>
-
+-->
 </p>
 
 <br><br>
