@@ -81,8 +81,8 @@
 
 <p>
 
-<img src="https://wakatime.com/share/@ahmedbadawi/f0dcdb99-d657-425f-954d-db2e553bc402.svg" height=340px, width=580px/>
-<img src="https://wakatime.com/share/@ahmedbadawi/63a73696-32bd-4067-a174-804683d66c25.svg" height=340px, width=400px/>
+<img src="https://wakatime.com/share/@ahmedbadawi/f0dcdb99-d657-425f-954d-db2e553bc402.svg" height=340px, width="50%"/>
+<img src="https://wakatime.com/share/@ahmedbadawi/63a73696-32bd-4067-a174-804683d66c25.svg" height=340px, width="50%"/>
 
 </p>
 
