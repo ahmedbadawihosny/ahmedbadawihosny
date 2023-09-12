@@ -82,7 +82,7 @@
 
 <br><br>
 
-## My Embeddable Charts in Programming Languages
+## My Embeddable Charts in Programming Languages From WakaTime
 
 <p>
 
