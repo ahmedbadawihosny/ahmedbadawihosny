@@ -122,8 +122,6 @@
 
   </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-	
 <p align = "center">
 	<img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
