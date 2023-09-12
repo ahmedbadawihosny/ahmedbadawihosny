@@ -59,12 +59,16 @@
   <br></br>
   
   <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=onedark&hide_border=false" /> 
+
 </td>
 
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedbadawihosny&langs_count=10&show_icons=true&locale=en&theme=onedark"/>
-  
+    <br><br>
+
+<a href="https://github.com/ahmedbadawihosny"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedbadawihosny&theme=onedark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
+
   </td>
 </tr>
 </table>
