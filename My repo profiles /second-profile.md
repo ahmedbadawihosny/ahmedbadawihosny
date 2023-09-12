@@ -66,6 +66,9 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ahmedbadawihosny&theme=onedark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawihosny&theme=onedark&hide_border=false" /> 
+<br><br>
+
+<a href="https://github.com/ahmedbadawihosny"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedbadawihosny&theme=onedark&hide_border=true"  width="520" alt="deepshikhayadav"/></a>
 </td>
 
 <td width="50%" align="center">
