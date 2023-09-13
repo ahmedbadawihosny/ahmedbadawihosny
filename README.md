@@ -86,10 +86,10 @@
 
 <p>
 
-<img src="https://wakatime.com/share/@ahmedbadawi/f0dcdb99-d657-425f-954d-db2e553bc402.svg" height=350px, width=750/>
-<!---
-<img src="https://wakatime.com/share/@ahmedbadawi/63a73696-32bd-4067-a174-804683d66c25.svg" height=340px, width="50%"/>
--->
+<img src="https://wakatime.com/share/@ahmedbadawi/2edfc9f5-592d-4c06-a3a7-6354fc71d6d8.svg" height=350px, width=500/>
+
+<img src="https://wakatime.com/share/@ahmedbadawi/c640a309-bdd3-41e1-b61c-2e6822e49f48.svg" height=350px, width="500"/>
+
 </p>
 
 <br><br>
