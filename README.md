@@ -82,8 +82,8 @@
 
 <br><br>
 
+<!---
 ## My Embeddable Charts in Programming Languages From WakaTime
-
 <p>
 
 <img src="https://wakatime.com/share/@ahmedbadawi/2edfc9f5-592d-4c06-a3a7-6354fc71d6d8.svg" height=350px, width=420/>
@@ -91,8 +91,7 @@
 <img src="https://wakatime.com/share/@ahmedbadawi/c640a309-bdd3-41e1-b61c-2e6822e49f48.svg" height=350px, width="420"/>
 
 </p>
-
-<br><br>
+<br><br> -->
 
 ## <picture> <img src="https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 
