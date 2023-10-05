@@ -117,10 +117,6 @@
     <img src="https://img.icons8.com/doodle/40/000000/facebook--v1.png"></a>
       <a style="margin-left: 10px;"  target="_blank" href="https://wa.me/0201018562905">
     <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png"></a>
-        <!--
-  <a style="margin-left: 5px;" target="_blank" href="https://github.com/">
-        <img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
-        -->
       </div>
 </p>
 
