@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Ahmed Badawi 
+<h1 align="center"> Hi , I'm Ahmed Badawi and Today is my Birthday
 	<picture> 
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 	</picture>
@@ -29,7 +29,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- 😎 Always `learning new things`. 
+- 😎 Always `learning new things`.
 <br>
 
 ## <picture><img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%></picture> My Competitive Programming Profiles
