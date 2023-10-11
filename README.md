@@ -1,4 +1,4 @@
-<h1 align="center"> Hi , I'm Ahmed Badawi and Today is my Birthday
+<h1 align="center"> Hi , I'm Ahmed Badawi
 	<picture> 
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 	</picture>
