@@ -116,9 +116,3 @@
     <img src="https://img.icons8.com/doodle/40/000000/whatsapp--v1.png"></a>
       </div>
 </p>
-
-  </br></br>
-	
-<p align = "center">
-	<img src = "https://github.com/ahmedbadawihosny/ahmedbadawihosny/blob/main/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
